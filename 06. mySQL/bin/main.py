@@ -1,5 +1,4 @@
 import mysql.connector
-
 '''
 1.install mysql __ **1.use every thing as default, 2. don't forget the passwd**
 2.install mysql.connecter __ for python
