@@ -1,5 +1,5 @@
 from tkinter import *
-from page1 import something
+from page1 import *
 
 win = Tk()
 win.geometry("500x500")  # windows size
